@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\timot\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\timot\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_Tokkina.1974571167.00" t="ExcludeRecursive" />
+    <e p="D:\Repos\Tokkina" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Art" t="Include">
+          <e p="Materials" t="Include">
+            <e p="SpriteDiffuse.shader" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Collectibles" t="Include">
+            <e p="CollectibleCarrot.cs" t="Include" />
+            <e p="CollectibleCherry.cs" t="Include" />
+            <e p="CollectibleDiamond.cs" t="Include" />
+            <e p="CollectibleHeart.cs" t="Include" />
+          </e>
+          <e p="Enemy" t="Include">
+            <e p="Damager.cs" t="Include" />
+            <e p="Enemy.cs" t="Include" />
+            <e p="MoveInterface.cs" t="Include" />
+          </e>
+          <e p="Environement" t="Include">
+            <e p="CallFunctionOnTrigger.cs" t="Include" />
+            <e p="MovingPlateform.cs" t="Include" />
+            <e p="SetChildOnTriggerEnter.cs" t="Include" />
+            <e p="SunControl.cs" t="Include" />
+            <e p="UpdateSunColor.cs" t="Include" />
+          </e>
+          <e p="Misc" t="Include">
+            <e p="BabyMove.cs" t="Include" />
+            <e p="ChangeContinueButton.cs" t="Include" />
+            <e p="ChangeScene.cs" t="Include" />
+            <e p="ChangeVolume.cs" t="Include" />
+            <e p="Chrono.cs" t="Include" />
+            <e p="CinematicExperience.cs" t="Include" />
+            <e p="DisplayVolume.cs" t="Include" />
+            <e p="EndingTrigger.cs" t="Include" />
+            <e p="FollowGameObject.cs" t="Include" />
+            <e p="HandlePopups.cs" t="Include" />
+            <e p="MenuInteraction.cs" t="Include" />
+            <e p="QuitCredits.cs" t="Include" />
+            <e p="ScrollText.cs" t="Include" />
+            <e p="TextLose.cs" t="Include" />
+            <e p="TextScore.cs" t="Include" />
+            <e p="Volume.cs" t="Include" />
+          </e>
+          <e p="Player" t="Include">
+            <e p="PlayerControl.cs" t="Include" />
+            <e p="PlayerInfo.cs" t="Include" />
+            <e p="PlayerScore.cs" t="Include" />
+            <e p="ResetScore.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="Tokkina.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
